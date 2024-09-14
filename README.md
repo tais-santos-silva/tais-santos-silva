@@ -1,5 +1,5 @@
 ## Olá! Sou a Taís Santos 👋
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/taís-santos-3202931b1)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](ttps://www.linkedin.com/in/taís-santos-3202931b1)
 - 🐞 Sou Analista de Qualidade de Software
 - 🌱 Estou estudanddo Automação com playwright e Detox
 - 👯 Trabalho na Conexa Saúde
